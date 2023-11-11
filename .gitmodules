@@ -1,0 +1,13 @@
+[submodule "windmill"]
+	path = windmill
+	url = git@github.com:Hoodoo/windmill.git
+[submodule "python"]
+	path = python
+	url = git@github.com:Hoodoo/python.git
+[submodule "docker-rust"]
+	path = docker-rust
+	url = git@github.com:Hoodoo/docker-rust.git
+[submodule "docker-debian-artifacts"]
+	path = docker-debian-artifacts
+	url = git@github.com:Hoodoo/docker-debian-artifacts.git
+	branch = dist-amd64
