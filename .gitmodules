@@ -10,4 +10,4 @@
 [submodule "docker-debian-artifacts"]
 	path = docker-debian-artifacts
 	url = git@github.com:Hoodoo/docker-debian-artifacts.git
-	branch = dist-amd64
+	branch = sid-updated
